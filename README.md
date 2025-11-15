@@ -1,13 +1,4 @@
 ## Olá Tudo Bem? 👋
-
-<div> 
-  Dev Fullstack | Node | React | React Native | AWS | 
-   <br/> 
-  Apaixonado por código, novas tecnologias e grandes
-   <br/> 
-  desafios. 
-</div>
-  <br/>
   
 <p dir="auto">Meu nome é Aleksander Furlan e sou um desenvolvedor apaixonado por tecnologia.!</p>    
 <p dir="auto">Este é o espaço onde passo a maior parte do meu tempo, onde a imaginação e a criatividade se transformam em código.</p>
