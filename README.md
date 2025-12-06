@@ -1,51 +1,54 @@
-## Olá Tudo Bem? 👋
+# 👋 Olá, tudo bem?
 
-  
+Meu nome é **Aleksander Furlan** e sou um desenvolvedor Front-End apaixonado por tecnologia e por transformar ideias em código.  
+Este é o meu espaço no GitHub, onde registro minha evolução, experimentos e projetos que estou construindo ao longo da minha jornada de aprendizado.
 
-<p dir="auto">Meu nome é Aleksander Furlan e sou um desenvolvedor apaixonado por tecnologia.!</p>    
+Atualmente estudo **HTML, CSS e JavaScript** pela formação DevClub (Rodolfo Mori), e estou focado em criar **landing pages e interfaces responsivas** enquanto desenvolvo minhas bases no Front-End.
 
-<p dir="auto">Este é o espaço onde passo a maior parte do meu tempo, onde a imaginação e a criatividade se transformam em código.</p>
+---
 
-<ul dir="auto">
+## 🚀 Tecnologias que estou estudando e praticando
 
-<li>📫 How to reach me: <a href="https://www.instagram.com/aleksanderfurlan/" rel="nofollow">@aleksanderfurlan</a>;</li>
+<div style="display: flex; gap: 10px;">
 
-</ul>
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" />
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" />
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" />
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" />
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" />
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" />
 
-<br/>
+</div>
 
-<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">Connect with me:</h3><a id="user-content-connect-with-me" class="anchor" aria-label="Permalink: Connect with me:" href="#connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+---
 
-<p dir="auto">
+## 🔗 Conecte-se comigo
 
-<a href="https://www.instagram.com/aleksanderfurlan/" rel="nofollow">
-
-<img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://camo.githubusercontent.com/09cf85d950674fd4a93560addd0992b6463f3d67678f2201b295c57ab56389d4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width: 100%;">
-
+<a href="https://www.linkedin.com/in/furlandev/" target="_blank">
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
 </a>
 
-</p>
+<a href="https://www.instagram.com/aleksanderfurlan/" target="_blank">
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" />
+</a>
 
+---
 
+## 📊 GitHub Stats
 
-<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksander-Furlan&layout=compact)
 
-<p align="left" dir="auto">
+---
 
-<br>
+## ✨ Sobre mim
 
- Languages and Tools:
+- 💻 Morando atualmente na Itália (já vivi na Alemanha e Portugal)  
+- 🌎 Trabalhando focado no **mercado brasileiro**, de forma remota  
+- 🚀 Buscando oportunidades e freelas de Front-End  
+- 🧱 Em constante evolução no desenvolvimento de landing pages e interfaces  
+- 🎯 Meu objetivo é criar minha própria empresa de desenvolvimento no futuro  
 
-</p>
-<br>
+---
 
-<p dir="auto"><code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%; height: auto; max-height: 20px;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" style="max-width: 100%; height: auto; max-height: 20px;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width: 100%; height: auto; max-height: 20px;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" style="max-width: 100%; height: auto; max-height: 20px;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width: 100%; height: auto; max-height: 20px;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" style="max-width: 100%; height: auto; max-height: 20px;"></a></code></p>
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksander-Furlan)](https://github.com/anuraghazra/github-readme-stats)
+Obrigado por visitar meu perfil!  
+Fique à vontade para explorar meus projetos. 🚀
