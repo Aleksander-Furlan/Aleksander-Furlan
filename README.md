@@ -29,7 +29,7 @@ Atualmente estudo **HTML, CSS e JavaScript** pela formação DevClub (Rodolfo Mo
 </a>
 
 <a href="https://www.instagram.com/aleksanderfurlan/" target="_blank">
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" />
+  <img height="28" src="https://br.freepik.com/vetores-gratis/icone-de-midia-social-do-vetor-instagram-7-de-junho-de-2021-banguecoque-tailandia_18246125.htm#fromView=keyword&page=1&position=1&uuid=28c2a479-5adb-458a-90d0-f457586d0212&query=Instagram+icon" alt="Instagram" />
 </a>
 
 ---
