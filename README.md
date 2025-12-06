@@ -64,18 +64,6 @@ Meu objetivo é evoluir até me tornar um **Desenvolvedor Front-End completo**, 
 
 ---
 
-# 📊 GitHub Stats
-
-
-<p align="left">
-  <img 
-       height="180"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aleksander-Furlan&layout=compact&theme=transparent&hide_border=true"
-  />
-</p>
-
----
-
 # ✨ Sobre mim
 
 Sou movido por desafios, gosto de criar layouts bonitos, funcionais e ver tudo ganhando vida no navegador.  
